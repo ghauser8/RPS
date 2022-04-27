@@ -1,2 +1,2 @@
-# odin-JS
-JS exercises from The Odin Project
+# RPS
+Rock Paper Scissors game in JS
